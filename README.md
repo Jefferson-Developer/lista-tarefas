@@ -1,4 +1,4 @@
-# Aplicativo de Lista de Tarefas Flutter
+# Aplicativo Modular de Lista de Tarefas Flutter
 
 Este é um aplicativo Flutter de lista de tarefas que permite aos usuários gerenciar suas tarefas de forma eficiente. O aplicativo possui recursos de autenticação pelo Firebase para criar contas e fazer login, além de armazenar as tarefas localmente usando o SQFlite para uma experiência offline confiável. Ele também é construído de forma modular, usando o Provider para gerenciar o estado da aplicação de maneira eficaz.
 
